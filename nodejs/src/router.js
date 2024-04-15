@@ -5,9 +5,9 @@ import alist from './spider/pan/alist.js';
 import _13bqg from './spider/book/13bqg.js';
 import copymanga from './spider/book/copymanga.js';
 import ffm3u8 from './spider/video/ffm3u8.js';
-import ffm3u8 from './spider/video/4kys_open.js';
+import 4kys from './spider/video/4kys_open.js';
 
-const spiders = [kunyu77, kkys, ffm3u8, push, alist, _13bqg, copymanga];
+const spiders = [kunyu77, kkys, ffm3u8, 4kys,push, alist, _13bqg, copymanga];
 const spiderPrefix = '/spider';
 
 /**
